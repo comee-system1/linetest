@@ -1,0 +1,56 @@
+{
+    "to": "U357ea4e3178345d5cb4f67a7045f2d41",
+    "messages": [
+        {
+            "type": "text",
+            "text": "こんにちは API"
+        },
+        {
+            "type": "text",
+            "text": "PHPからPUSH送信\r\n改行して２行目"
+        }
+    ]
+}
+
+{
+    "to": "U357ea4e3178345d5cb4f67a7045f2d41",
+    "messages": [
+        {
+            "type": "text",
+            "text": "こんにちは API"
+        },
+        {
+            "type": "text",
+            "text": "PHPからPUSH送信\r\n改行して２行目"
+        }
+    ]
+}
+
+{
+    "to": "U357ea4e3178345d5cb4f67a7045f2d41",
+    "messages": [
+        {
+            "type": "text",
+            "text": "こんにちは API"
+        },
+        {
+            "type": "text",
+            "text": "PHPからPUSH送信\r\n改行して２行目"
+        }
+    ]
+}
+
+{
+    "to": "U357ea4e3178345d5cb4f67a7045f2d41",
+    "messages": [
+        {
+            "type": "text",
+            "text": "こんにちは API"
+        },
+        {
+            "type": "text",
+            "text": "PHPからPUSH送信\r\n改行して２行目"
+        }
+    ]
+}
+
